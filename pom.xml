@@ -57,4 +57,13 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/MallikarjunaReddyN/ctp-version-lib</url>
+        </repository>
+    </distributionManagement>
+
+
 </project>
